@@ -1,6 +1,6 @@
 # Cafe Libre
 
-Cafe Libre network for your happy moments that you have the peace with a cup of coffee and a cake !y
+Cafe Libre network for your happy moments that you have the peace with a cup of coffee and a cake !
 
 # License
 
